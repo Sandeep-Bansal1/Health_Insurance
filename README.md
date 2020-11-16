@@ -24,7 +24,7 @@ Assignment Submitted: November 2020
     - More on CDC and heath insurance charges can be found [here](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NHE-Fact-Sheet#:~:text=Private%20health%20insurance%20spending%20grew,the%204.7%25%20growth%20in%202017.)
     
 ## Buisness Objective Goals </b> 
-- Using Logistic Regression can a machine learning model accurately predict whether or not the patients in the dataset have diabetes or not?
+- Using K-means clustering can a machine learning model accurately reveal the most contributing factor to the costs of health insurance?
 ---
 ## Data:
 - This dataset was found from Kaggle which can be found [here](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NHE-Fact-Sheet#:~:text=Private%20health%20insurance%20spending%20grew,the%204.7%25%20growth%20in%202017.)
