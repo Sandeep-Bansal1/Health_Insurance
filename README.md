@@ -41,7 +41,6 @@ Assignment Submitted: November 2020
 ## References and contributions:
 
 1. Datasets: https://www.kaggle.com/sriharipramod/knn-k-means
-2.
-3. 
-4. Cover Picture, Global Map: Google.com 
+2. U.S. Centers for Medicare & Medicaid Services
+3. Cover Picture, Global Map: Google.com 
 
