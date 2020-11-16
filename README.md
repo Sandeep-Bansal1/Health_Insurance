@@ -29,6 +29,7 @@ Assignment Submitted: November 2020
 ## Data:
 - By the visual below it is clear that time and money spent have a linear relationship. 
 - This dataset has 1338 rows and 7 columns was found from Kaggle which can be found [here](https://www.kaggle.com/sriharipramod/knn-k-means)
+![alt text](https://raw.githubusercontent.com/Sandeep-Bansal1/Health_Insurance/4730b96b3a4cf514c11707e76809eb3ec5882f3a/US_Healthcare.svg)
 #  
 ## Limitations and Future work:
 
@@ -42,5 +43,6 @@ Assignment Submitted: November 2020
 
 1. Datasets: https://www.kaggle.com/sriharipramod/knn-k-means
 2. U.S. Centers for Medicare & Medicaid Services
-3. Cover Picture, Global Map: Google.com 
+3. Cover Picture, Global Map: Google.com
+4. World Data 
 
