@@ -25,6 +25,7 @@ Assignment Submitted: November 2020
     
 ## Buisness Objective Goals </b> 
 - Using K-means clustering can a machine learning model accurately reveal the most contributing factor to the costs of health insurance?
+- On the go and can view the code? Not to worry. I made a PDF for that above! 
 ---
 ## Data:
 - By the visual below it is clear that time and money spent have a linear relationship. 
