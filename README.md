@@ -1,5 +1,5 @@
 # <div align="center"> Why does Health Insurance take so much out of my Wallet?
-![alt text](https://github.com/Sandeep-Bansal1/Diabetes_Project/blob/main/Diabetes%20image.png) <pre>
+![alt text](https://github.com/Sandeep-Bansal1/Health_Insurance/blob/main/big-shrug.jpg?raw=true) <pre>
 Contrubuter  : Sandeep Bansal
 </pre>
 
