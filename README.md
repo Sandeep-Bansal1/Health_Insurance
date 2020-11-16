@@ -27,7 +27,7 @@ Assignment Submitted: November 2020
 - Using Logistic Regression can a machine learning model accurately predict whether or not the patients in the dataset have diabetes or not?
 ---
 ## Data:
-- The worldwide prevalence of DM has risen dramatically over the past two decades, from an estimated 30 million cases in 1985 to 415 million in 2017. According to the article titled "Early onset of type 2 diabetes: risk factorsm clinical impact and management", statistics state the Global estimate for Diabetes Mellitus is approximatly 415 million in 2017. Regional estimates of the number of individuals with diabetes (20–79 years of age) are shown (2017).Based on current trends, the IDF projects that 642 million individuals will have diabetes by the year 2040.
+- This dataset was found from Kaggle which can be found [here](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NHE-Fact-Sheet#:~:text=Private%20health%20insurance%20spending%20grew,the%204.7%25%20growth%20in%202017.)
 #  <div align="center"> ![alt text](https://raw.githubusercontent.com/Sandeep-Bansal1/Health_Insurance/dc3bcd229147f461f18724b914d3ef82193d9bb9/US_Healthcare.svg)
   
 ---
