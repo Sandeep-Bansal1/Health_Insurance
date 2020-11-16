@@ -1,5 +1,5 @@
 # <div align="center"> Why does Health Insurance take so much out of my Wallet?
-# <div align="center"> ![alt text](https://github.com/Sandeep-Bansal1/Health_Insurance/blob/main/big-shrug.jpg?raw=true) <pre>
+# <div align="center"> ![alt text](https://github.com/Sandeep-Bansal1/Health_Insurance/blob/main/big-shrug.jpg?raw=true) 
 Contrubuter  : Sandeep Bansal
 </pre>
 
