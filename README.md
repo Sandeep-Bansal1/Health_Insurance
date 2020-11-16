@@ -33,10 +33,12 @@ Assignment Submitted: November 2020
 #  
 ## Limitations and Future work:
 
+- all the 4 independent variable has a Pvalue of less than 0.05 thus we reject the null hypothesis. and conclude that "Charges" are dependent on the mentioned variables.
+- Individuals both female, male and of all ages should keep their BMI at a healthy level, they should not smoke, and should be aware that more children may lead to an increase in health insurance.
 
 
 ## Results and Primary Findings:
-
+- I would have liked to use a linear regression model as well to see if we could make a prediction of future charges based on the data we were given. I do not believe there were any limitations, because it has been reported by CDC that charges have been increasing drastically, and this supports that and also states the reasons as to why it is happening. Ultimately, aging is apart of human process so it is likely to increase in everyone.
 
 
 ## References and contributions:
