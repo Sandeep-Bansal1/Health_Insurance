@@ -27,10 +27,9 @@ Assignment Submitted: November 2020
 - Using K-means clustering can a machine learning model accurately reveal the most contributing factor to the costs of health insurance?
 ---
 ## Data:
+- By the visual below it is clear that time and money spent have a linear relationship. 
 - This dataset has 1338 rows and 7 columns was found from Kaggle which can be found [here](https://www.kaggle.com/sriharipramod/knn-k-means)
-#  <div align="center"> ![alt text](https://raw.githubusercontent.com/Sandeep-Bansal1/Health_Insurance/dc3bcd229147f461f18724b914d3ef82193d9bb9/US_Healthcare.svg)
-
-
+#  
 ## Limitations and Future work:
 
 
